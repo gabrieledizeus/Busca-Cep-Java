@@ -1,0 +1,20 @@
+Endereço Completo: Quadra QNM 24 Conjunto D Ceilândia Norte (Ceilândia)
+Estado: Distrito Federal - DF
+CEP: 72210-244
+DDD: 61
+
+Endereço Completo: Quadra QNM 20 Conjunto O Ceilândia Norte (Ceilândia)
+Estado: Distrito Federal - DF
+CEP: 72210-215
+DDD: 61
+
+Endereço Completo: Quadra QNM 20 Ceilândia Norte (Ceilândia)
+Estado: Distrito Federal - DF
+CEP: 72210-200
+DDD: 61
+
+Endereço Completo: null null
+Estado: null - null
+CEP: null
+DDD: null
+
